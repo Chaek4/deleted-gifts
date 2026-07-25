@@ -1,5 +1,5 @@
 {
-   "stickerpack": "DeletedGifts" 
+   "stickerpack": "DeletedGifts", 
   "gifts": [
     {"id": 5974210632977745012, "price": 50, "sticker_number": 1, "debug_name":  "Мишка-Футболист"},
     {"id": 6026193266406327981, "price": 50, "sticker_number": 2, "debug_name":  "Мишка-Рабочий"},
