@@ -1,0 +1,15 @@
+{
+   "stickerpack": "DeletedGifts" 
+  "gifts": [
+    {"id": 5974210632977745012, "price": 50, "sticker_number": 1, "debug_name":  "Мишка-Футболист"},
+    {"id": 6026193266406327981, "price": 50, "sticker_number": 2, "debug_name":  "Мишка-Рабочий"},
+    {"id": 5969796561943660080, "price": 50, "sticker_number": 3, "debug_name":  "Мишка-Кроля"},
+    {"id": 5935895822435615975, "price": 50, "sticker_number": 4, "debug_name":  "Мишка-Клоун"},
+    {"id": 5893356958802511476, "price": 50, "sticker_number": 5, "debug_name":  "Мишка-Лудоман"},
+    {"id": 5866352046986232958, "price": 50, "sticker_number": 6, "debug_name":  "Мишка-Сердце"},
+    {"id": 5800655655995968830, "price": 50, "sticker_number": 7, "debug_name":  "Мишка-Белый"},
+    {"id": 5956217000635139069, "price": 50, "sticker_number": 8, "debug_name":  "Мишка-Новогодняя"},
+    {"id": 5922558454332916696, "price": 50, "sticker_number": 9, "debug_name":  "Ёлка-Новогодняя"},
+    {"id": 5801108895304779062, "price": 50, "sticker_number": 10, "debug_name": "Сердце-Влюблённых"}
+  ]
+}
